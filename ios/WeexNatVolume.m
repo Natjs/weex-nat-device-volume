@@ -1,15 +1,15 @@
 //
-//  NatWeexVolume.m
+//  WeexNatVolume.m
 //
 //  Created by huangyake on 17/1/7.
 //  Copyright © 2017 Nat. All rights reserved.
 //
 
 
-#import "NatWeexVolume.h"
+#import "WeexNatVolume.h"
 #import "NatVolume.h"
 
-@implementation NatWeexVolume
+@implementation WeexNatVolume
 WX_EXPORT_METHOD(@selector(set::))
 WX_EXPORT_METHOD(@selector(get:))
 
