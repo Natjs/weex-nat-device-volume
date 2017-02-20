@@ -1,17 +1,19 @@
 {
-  "name": "nat-device-volume",
-  "version": "0.0.0",
-  "description": "Weex Plugin-nat-device-volume",
+  "name": "weex-nat-device-volume",
+  "version": "0.0.1",
+  "description": "Nat.js module: Volume",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
+    "Nat",
+    "device",
+    "volume",
     "Weex",
     "Plugin",
-    "commponent",
     "module",
-    "handle",
-    "weexpack"
+    "handle"
   ],
-  "author": ""
+  "author": "Acathur",
+  "license": "MIT"
 }
