@@ -2,13 +2,13 @@
 
 <plugin xmlns="http://www.w3.org/ns/widgets"
     id="nat-device-volume"
-    version="0.1.0">
+    version="0.1.2">
     <name>nat-device-volume</name>
-    <description></description>
+    <description>Nat.js module: Volume</description>
     <license>MIT</license>
-    <keywords>weex,plugin,nat,natjs,volume</keywords>
-    <repo>https://github.com/Natjs/weex-nat-device-volume.git</repo>
-    <issue>https://github.com/Natjs/weex-nat-device-volume/issues</issue>
+    <keywords>weex,plugin,nat,natjs,device,volume</keywords>
+    <repo>https://github.com/natjs/weex-nat-device-volume.git</repo>
+    <issue>https://github.com/natjs/weex-nat-device-volume/issues</issue>
     
      <!-- ios -->
      <platform name="ios">
